@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  car_array = ["sports", "SUV", "Truck", "Minivan", "Station Wagon"]
+  car_array = ["sports", "SUV", "Truck", "Minivan"]
 end
 
 def add_element_to_end_of_array(array, element)
